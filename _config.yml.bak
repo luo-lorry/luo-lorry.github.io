@@ -185,7 +185,7 @@ scholar:
   last_name: Luo
   first_name: Rui
 
-  style: ieee
+  style: apa
   locale: en
 
   source: /_bibliography/
