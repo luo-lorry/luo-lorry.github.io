@@ -4,26 +4,26 @@
   journal={arXiv preprint arXiv:2109.12727},
   year={2021},
 
-  arxiv={https://arxiv.org/abs/2109.12727},
-  bibtex_show={true}
+  arxiv={2109.12727},
+  #bibtex_show={true}
 }
 
 @article{2201.07076,
   title={Mitigating Misinformation Spread on Blockchain Enabled Social Media Networks},
-  author={Rui Luo, Vikram Krishnamurthy, and Erik Blasch},
+  author={Luo, Rui and Krishnamurthy, Vikram and Blasch, Erik},
   journal={arXiv preprint arXiv:2201.07076},
   year={2022},
 
-  arxiv={https://arxiv.org/abs/2201.07076},
+  arxiv={2201.07076},
   bibtex_show={true}
 }
 
 @article{2203.16666,
   title={Hawkes Process Modeling of Block Arrivals in Bitcoin Blockchain},
-  author={Rui Luo, Vikram Krishnamurthy, and Erik Blasch},
+  author={Luo, Rui and Krishnamurthy, Vikram and Blasch, Erik},
   journal={arXiv preprint arXiv:2203.16666},
   year={2022},
 
-  arxiv={https://arxiv.org/abs/2203.16666},
+  arxiv={2203.16666},
   bibtex_show={true},
 }
