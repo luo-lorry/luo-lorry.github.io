@@ -8,7 +8,7 @@ nav: true
 #### Academic service
 
 - Professional member: Institute of Electrical and Electronics Engineers.
-- Journal reviewer: IEEE TSIPN, IEEE TCSS, Communications Physics, Automatica, Frontiers in Psychology, section Organizational Psychology, International Journal of Crashworthiness.
+- Journal reviewer: IEEE TSIPN, IEEE TCSS, Communications Physics, Automatica, Frontiers in Psychology, International Journal of Crashworthiness.
 
 #### Awards
 
@@ -21,6 +21,6 @@ nav: true
 #### Talks
 
 - Invited talk: **Identification and Mitigation of Echo Chambers in Online Social Networks**, remote. Jun. 2022.
-- Conference presentation: **Estimating Segregation in Social Networks with Hidden Markov Bridge Model**, remote. Jun. 2021. 
+- Conference presentation: **Estimating Segregation in Social Networks with Hidden Markov Bridge Model**, [remote](https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/index.html). Jun. 2021. 
 
 #### Collaborators
