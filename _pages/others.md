@@ -22,7 +22,3 @@ nav: true
 
 - Invited talk: **Identification and Mitigation of Echo Chambers in Online Social Networks**, remote. Jun. 2022.
 - Conference presentation: **Estimating Segregation in Social Networks with Hidden Markov Bridge Model**, [remote](https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/index.html). Jun. 2021. 
-
-#### Internships
-
-- Quantitative research at XBTO Trading. Summer 2022.
